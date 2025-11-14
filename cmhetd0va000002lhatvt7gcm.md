@@ -3,78 +3,190 @@ title: "Launch of the Road to Wiki Program and WikiClub Tech at SHUATS"
 datePublished: Fri Oct 31 2025 12:12:32 GMT+0000 (Coordinated Universal Time)
 cuid: cmhetd0va000002lhatvt7gcm
 slug: launch-of-the-road-to-wiki-program-and-wikiclub-tech-at-shuats
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1763092002061/bf942b0b-525d-438c-8c94-a557e002b7b5.png
 tags: opensource, wikipedia, open-source, wikimedia, rtw, roadtowiki, wikiclubtech, wikiclubtechshuats
 
 ---
 
-On **26 September 2026**, we hosted the **launch of the “Road to Wiki” Program** at **Sam Higginbottom University of Agriculture, Technology and Sciences (SHUATS)** — a milestone event marking the **official establishment of WikiClub Tech SHUATS**.
+On 26 September 2026, we marked an important milestone at Sam Higginbottom University of Agriculture, Technology and Sciences (SHUATS): the launch of the *Road to Wiki* Program and the official establishment of [**WikiClub Tech SHUATS**](https://meta.wikimedia.org/wiki/WikiClub_Tech_SHUATS). Alongside fellow speakers **Ankit Kumar Verma** and **Aditya Kumar**, I had the privilege of introducing over 110 students from four institutions across the Prayagraj region to the world of Wikimedia and open-source technology.
 
-Together with my fellow speakers **Ankit Kumar Verma** and **Aditya Kumar**, we welcomed over **110 students** from SHUATS and nearby institutions including UIT, UU, and SIET, to learn about Wikimedia, open-source contribution, and the exciting opportunities that lie ahead for student developers.
+This gathering wasn’t just another tech event—it was the beginning of a student-led movement to build an informed, engaged, and technically empowered Wikimedia community on campus.
 
----
+## Setting the Stage
 
-## Inspiring the Next Generation of Wiki Contributors
+The event opened with a warm welcome followed by the traditional lighting of the lamp. We were honored to have **Mr. Ankit Kumar Verma**, Project Coordinator for Wiki at IIIT Hyderabad, as the guest speaker. His presence set an encouraging tone for the day.
 
-![Students attending the session on Mobile App Development and Wikimedia technologies.](image2.jpg align="left")
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/IMG20250926111341.jpg?w=771 align="left")
+    
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/20250926_111425.jpg?w=1024 align="left")
+    
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/Copy-of-20250926_111354-rotated.jpg?w=577 align="left")
+    
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/20250926_111444-rotated.jpg?w=577 align="left")
+    
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/Copy-of-20250926_113349-rotated.jpg?w=577 align="left")
+    
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/Copy-of-20250926_112003-rotated.jpg?w=577 align="left")
+    
 
-  
-*Caption: The event began with a technical deep-dive session on mobile app development.*
+## Mobile App Development Session: Setting the Momentum
 
-The event began with my interactive session on no-code **Mobile App Development**, where we discussed the evolving ecosystem of mobile technologies, open collaboration, and how students can integrate Wikimedia APIs and open datasets into innovative applications.
+I began the sessions with a talk on **mobile app development**, focusing on how Wikimedia ecosystems intersect with mobile technologies. We explored:
 
-Students actively participated with questions, shared their ideas, and took part in a **faculty-student Q&A panel**, making the session dynamic and engaging.
+* Wikimedia projects that rely on mobile applications
+    
+* Pathways for students to contribute to the Wikimedia movement
+    
+* How no-code tools can help prototype wikimedia-related apps quickly
+    
 
-Following this, **Ankit Kumar Verma** introduced the audience to the **Wikimedia Movement**, its mission, and the philosophy behind *free knowledge for everyone*. He also spoke about the **Road to Wiki Program**, and how it helps bridge the gap between aspiring developers and the global Wikimedia technical ecosystem.
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/IMG_20250926_113715.jpg?w=1024 align="left")
+    
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/img2.png?w=1024 align="left")
+    
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/img1.png?w=1024 align="left")
+    
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/IMG_9711.JPG.png?w=1024 align="left")
+    
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/20250926_105812.png?w=1024 align="left")
+    
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/Copy-of-IMG_20250926_120523.jpg?w=1024 align="left")
+    
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/Copy-of-IMG_20250926_133017.jpg?w=1024 align="left")
+    
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/IMG-20251113-WA0045.jpg?w=1024 align="left")
+    
 
-Later, **Aditya Kumar** shared valuable insights into **open-source contribution** — from setting up development environments to understanding collaborative tools used in Wikimedia’s technical projects.
+The energy in the room was remarkable. Students asked questions, debated ideas, and built small prototypes during the activity segments. Their eagerness made the speaker-led session truly collaborative. A short **faculty panel discussion** and **student Q&A** followed, bringing forward insightful questions about app development, tooling, and real-world implementation.
 
----
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/Copy-of-IMG_20250926_115538.png?w=1024 align="left")
+    
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/Copy-of-IMG_20250926_115853.jpg?w=1024 align="left")
+    
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/Copy-of-IMG_20250926_120616.png?w=1024 align="left")
+    
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/Copy-of-IMG_20250926_121927.jpg?w=1024 align="left")
+    
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/Screenshot-28.png?w=1024 align="left")
+    
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/IMG_20250926_113823.jpg?w=1024 align="left")
+    
 
-## Engaging Through a Wikimedia Quiz
+## Understanding the Wikimedia Movement
 
-![Participants during the Wikimedia and Open Source Quiz session.](image3.jpg align="left")
+The next session was delivered by **Ankit Kumar Verma**, who broke down the Wikimedia movement from a community and impact perspective. His examples—ranging from global knowledge equity efforts to local language initiatives—helped many students understand that Wikimedia is more than Wikipedia; it’s a global mission powered by everyday contributors.
 
-  
-*Caption: Students participating enthusiastically in the Wikimedia quiz and open-source challenge.*
+He also introduced the structure and goals of the [**Road to Wiki Program**](https://diff.wikimedia.org/2025/07/08/a-deep-dive-into-road-to-wiki-cohort-1s-technical-sessions-and-hybrid-collaboration/), and why campuses like SHUATS are essential to building the next wave of open knowledge contributors.
 
-To keep the students energized and make learning fun, the session concluded with an **interactive quiz** focused on the **Wikimedia Movement and open-source software**.
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/IMG_20250926_123024.jpg align="left")
+    
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/20250926_105839.png align="left")
+    
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/20250926_105947.png align="left")
+    
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/IMG_20250926_104903.jpg align="left")
+    
 
-The excitement was infectious — students competed enthusiastically, showcasing what they had learned throughout the event. The **top winners received certificates and WikiClub Tech swags**, adding a celebratory touch to the close of the day.
+## Diving Into Open Source Contribution
 
----
+Our final speaker, **Aditya Kumar**, gave a hands-on walkthrough of open-source contribution workflows. He demonstrated:
+
+* How to use [Gerrit](https://www.mediawiki.org/wiki/Gerrit) for code contributions
+    
+* Navigating [Phabricator](https://www.mediawiki.org/wiki/Phabricator)
+    
+* Working with [GitLab](https://www.mediawiki.org/wiki/GitLab) and patch submission workflows
+    
+
+This session was especially valuable for students who have always wanted to contribute but were held back by unfamiliarity with these tools. Several participants later shared enthusiastically on social media about making their first Phabricator accounts and exploring open-source tasks.
+
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/20250926_125119.png align="left")
+    
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/IMG_20250926_100153.png align="left")
+    
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/IMG_9870.png align="left")
+    
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/Copy-of-IMG_20250926_094919.jpg align="left")
+    
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/20250926_100427.png align="left")
+    
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/IMG-20251113-WA0043.jpg align="left")
+    
+
+## Keeping the Momentum Alive
+
+To keep spirits high, we closed the event with an interactive quiz on the Wikimedia movement and open-source software. Students were highly competitive—buzzing with excitement as they formed teams and debated the answers.  
+Top scorers received certificates and **WikiClub Tech** swags, which quickly became the highlight of the day’s Instagram stories and WhatsApp statuses.
+
+One student shared afterward:  
+*“I didn’t know contributing to Wikimedia was this accessible. I’m signing up for the cohort!”*  
+Comments like these reaffirmed that the event had sparked something real.
+
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/jaish.png?w=1024 align="left")
+    
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/Copy-of-IMG_20250926_132537.jpg?w=1024 align="left")
+    
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/IMG_9981.jpg?w=1024 align="left")
+    
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/IMG_9914.jpg?w=1024 align="left")
+    
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/Copy-of-20250926_132038.png?w=1024 align="left")
+    
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/20250926_132606.png?w=1024 align="left")
+    
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/IMG_20250926_131709.jpg?w=1024 align="left")
+    
 
 ## About the *Road to Wiki* Program
 
-![Ankit Kumar Verma speaking about the Road to Wiki program and its objectives.](image4.jpg align="left")
+The [Road to Wiki](https://diff.wikimedia.org/2025/07/08/a-deep-dive-into-road-to-wiki-cohort-1s-technical-sessions-and-hybrid-collaboration/) program is designed to introduce aspiring developers to Wikimedia technologies through a structured, cohort-based learning journey. Over recent months, the program has grown into a vibrant learning ecosystem connecting students from diverse universities.
 
-  
-*Caption: Ankit Kumar Verma discussing the goals of the Road to Wiki initiative.*
+Its goals include:
 
-A critical part of our initiative is the **Road to Wiki Program** — an instrumental program that aims to create a platform for aspiring developers to immerse themselves in the **open-source world of Wikimedia technologies**.
+* Bridging the gap between student developers and the Wikimedia technical landscape
+    
+* Encouraging hands-on contributions through assignments, sprints, and mini-projects
+    
+* Building regional communities capable of sustaining long-term engagement
+    
 
-Over the past few months, the program has witnessed **remarkable participation** from students across diverse universities, fostering meaningful contributions to Wikimedia’s technical ecosystem. From kick-off calls to hands-on assignments, it has successfully **bridged the gap between learning and contribution** — empowering developers and nurturing vibrant local communities through **cohort-based learning opportunities** and collaborations.
+For many participants, this is their first step into open-source contribution—with mentorship, peer learning, and real-world exposure shaping their journey.
 
----
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/20250926_105748.png?w=1024 align="left")
+    
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/20250926_105821.png?w=1024 align="left")
+    
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/Copy-of-IMG_20250926_111132.jpg?w=1024 align="left")
+    
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/Copy-of-IMG_20250926_115401.jpg?w=1024 align="left")
+    
+* ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/20250926_111530.png?w=1024 align="left")
+    
+
+## Celebrating Women in Tech
+
+During the event, we hosted a dedicated *Women in Tech* moment to recognize and celebrate the women and under-represented contributors who are actively shaping the Wikimedia and open-source ecosystem. It created a safe, encouraging space for them to share their experiences, highlight their impact, and inspire more voices to step forward.
+
+![](https://diff.wikimedia.org/wp-content/uploads/2025/11/IMG_9926.jpg?w=1024 align="left")
+
+## What’s Next for the Community
+
+After the main sessions, we gathered for a brief but insightful discussion on the community’s next steps. Students explored how they could stay engaged—through upcoming Road to Wiki cohort activities, hands-on technical assignments, and collaborative local projects. The conversation set a clear direction for sustaining momentum and building a thriving contributor community at SHUATS.
+
+![](https://diff.wikimedia.org/wp-content/uploads/2025/11/IMG-20251113-WA0058.jpg?w=1024 align="left")
 
 ## About WikiClub Tech
 
-![Members of WikiClub Tech SHUATS and student participants at the launch event.](image5.jpg align="left")
+WikiClub Tech is a youth-driven initiative formed by a group of enthusiastic technologists and open-source advocates. Incubated by the [**IndicWiki Project at IIIT Hyderabad**](https://indicwiki.iiit.ac.in/) **–** [**Open Knowledge Initiatives (OKI)**](https://meta.wikimedia.org/wiki/IIITH-OKI), the club aims to equip students with the skills and confidence to contribute to Wikimedia’s technical ecosystem.
 
-  
-*Caption: The newly established WikiClub Tech SHUATS team with students after the event.*
+Since its early beginnings in 2023, the initiative has grown into a consistent presence on campuses, hosting workshops, mentoring cohorts, and actively contributing to Wikimedia’s technical projects.
 
-**WikiClub Tech** is an initiative by a group of young technologists and open-source enthusiasts united by a single goal — **to empower students to contribute to the Wikimedia ecosystem through technology**.
+## Gratitude and Next Steps
 
-Incubated under the **IndicWiki Project at IIIT Hyderabad – Open Knowledge Initiatives (OKI) Team**, the club works to **bridge academia and industry**, helping students gain practical experience while contributing meaningfully to Wikimedia and open-source communities.
+A heartfelt thank you to **Ankit Kumar Verma**, the **IndicWiki team at IIIT Hyderabad**, [SHUATS](https://en.wikipedia.org/wiki/Sam_Higginbottom_University_of_Agriculture,_Technology_and_Sciences) for providing an excellent venue, and the dedicated **WikiClub Tech SHUATS core team and volunteers** who worked tirelessly behind the scenes. This event wouldn’t have been possible without everyone’s support.
 
-The initiative began its early steps in mid-2023 and, within just a year, has grown into a vibrant network of contributors and learners across India.
+The launch of the *Road to Wiki* Program at SHUATS is just the beginning. The enthusiasm we witnessed signals a promising future—one where students from Prayagraj contribute meaningfully to open knowledge, open technology, and open communities.
 
----
+We're excited for what comes next.
 
-### A Note of Thanks
-
-A huge thanks to **Ankit Kumar Verma**, the **IndicWiki IIIT Hyderabad – Open Knowledge Initiatives (OKI) Team**, and the **Department of Computer Science & Information Technology, SHUATS** for their support and collaboration.
-
-Special appreciation goes to the **WikiClub Tech SHUATS Core Team and Volunteers**, whose tireless efforts made this event possible. Their dedication truly embodies the Wikimedia spirit of collaboration and shared learning.
-
----
+![](https://diff.wikimedia.org/wp-content/uploads/2025/11/IMG-20251113-WA0047.jpg?w=1024 align="left")

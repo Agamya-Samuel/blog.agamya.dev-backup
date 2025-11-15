@@ -83,3 +83,12 @@ I arrived as a mentor, but I left with a stronger sense of responsibility—to m
 Events like this do not happen by accident. They’re the result of countless quiet efforts.
 
 A huge thank you to [**KCVelaga**](https://meta.wikimedia.org/wiki/User:KCVelaga_\(WMF\)), **Nivas**, [**Harigovind CB**](https://meta.wikimedia.org/wiki/User:Viserion7), the organizing team IMWDUG, and the volunteers who were everywhere at once—troubleshooting, guiding, coordinating, and making the hackathon feel seamless. Their work created a space where learning became joyful, and where newcomers felt truly welcomed into the movement.
+
+## **Closing Reflection**
+
+Walking out of the venue on the final day, I realized something simple but powerful: every hackathon is more than code, tasks, and patches. It’s a reminder that Wikimedia grows because people choose to show up for one another—whether it’s by mentoring, documenting, fixing bugs, or just asking good questions.
+
+Kochi gave me more than a mentoring opportunity.  
+It reminded me why I’m part of this movement in the first place: **to help others find their way into a world where knowledge is shared freely, openly, and without barriers**.
+
+And if even one newcomer from this hackathon continues contributing, continues learning, and continues shaping the future of Wikimedia—then every moment spent mentoring was worth it.

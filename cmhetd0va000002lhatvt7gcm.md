@@ -8,6 +8,8 @@ tags: opensource, wikipedia, open-source, wikimedia, rtw, roadtowiki, wikiclubte
 
 ---
 
+Read the [Diff version](https://diff.wikimedia.org/2025/11/16/launching-the-road-to-wiki-program-at-shuats-building-momentum-for-a-new-tech-community/).
+
 On 26 September 2026, we marked an important milestone at Sam Higginbottom University of Agriculture, Technology and Sciences (SHUATS): the launch of the *Road to Wiki* Program and the official establishment of [**WikiClub Tech SHUATS**](https://meta.wikimedia.org/wiki/WikiClub_Tech_SHUATS). Alongside fellow speakers **Ankit Kumar Verma** and **Aditya Kumar**, I had the privilege of introducing over 110 students from four institutions across the Prayagraj region to the world of Wikimedia and open-source technology.
 
 This gathering wasn’t just another tech event—it was the beginning of a student-led movement to build an informed, engaged, and technically empowered Wikimedia community on campus.
@@ -39,7 +41,6 @@ I began the sessions with a talk on **mobile app development**, focusing on how 
     
 * How no-code tools can help prototype wikimedia-related apps quickly
     
-
 * ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/IMG_20250926_113715.jpg?w=1024 align="left")
     
 * ![](https://diff.wikimedia.org/wp-content/uploads/2025/11/img2.png?w=1024 align="left")

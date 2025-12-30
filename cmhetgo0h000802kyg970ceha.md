@@ -8,6 +8,8 @@ tags: hackathon, opensource, wikipedia, hackathons, open-source, wikimedia, koch
 
 ---
 
+***<mark>Read the </mark>*** [***<mark>Diff</mark>***](https://diff.wikimedia.org/2025/11/26/how-the-indic-wikimedia-hackathon-kochi-made-me-a-better-mentor/) ***<mark> verion Here</mark>***
+
 When I look back at the last few years of my journey in the Wikimedia technical ecosystem, there are a few moments that feel like quiet turning points.  
 [**The Indic Wikimedia Hackathon Kochi 2025**](https://meta.wikimedia.org/wiki/Indic_Wikimedia_Hackathon_Kochi_2025) **(24–27 July 2026)** became one of them.
 
